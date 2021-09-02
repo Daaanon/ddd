@@ -71,7 +71,7 @@
         <div class="form-group row">
         <label for="summ" class="col-sm-2 col-form-label">Сумма</label>
             <div class="col-sm-10">
-            <input type="number" name="summ" min="100" max="1000000"><br>
+            <input type="number" name="summ" min="1000" max="3000000"><br>
             </div>
         </div>
         <div class="form-group row">
